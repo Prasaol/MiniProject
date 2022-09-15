@@ -1,1 +1,1 @@
-# MiniProject
+# Card Randoming Game
